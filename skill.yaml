@@ -1,0 +1,5 @@
+name: "swing_stock_screen"
+title: "Swing Stock Screen"
+description: "Runs a five step large cap swing trade screen with an indicator backtest, entry stop and target levels, a sentiment danger rule, and a scored evening review that tunes the next day."
+category: "Work and knowledge"
+include_in_prompt: true
